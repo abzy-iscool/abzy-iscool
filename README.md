@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @abhi
 - 👀 I’m interested in tech and development in general for all systems and languages alike 
-- 🌱 I’m currently learning cloud development and database code structures
+- 🌱 I’m currently learning DEVOPS pillars and CI/CD pipeline deployment 
 - 📫 you could reach me through instagram with the handle abzycadabzy or if you prefer E-mail abzyjani@gmail.com 
