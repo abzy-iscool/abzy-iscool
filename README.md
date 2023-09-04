@@ -1,4 +1,8 @@
 - 👋 Welcome to my github page 
-- 👀 I’m interested in tech and development in general for all systems and languages alike 
-- 🌱 I’m currently learning DEVOPS pillars and CI/CD pipeline deployment 
-- 📫 you could reach me through instagram with the handle abzycadabzy or if you prefer E-mail abzyjani@gmail.com 
+- 🌱 Currently learning Devops and Software Development 
+- 👀 Interested in Devops and Systems/Software Architecture 
+- 🏓 Favourite hobby is Gaming
+- 📚 Life Long Learner dedicating my time, money and efforts in Courses and Industry Rated Cloud Badges
+- 🔍 Searching for remote job opportunities outside Africa and or Global Remote Setting
+- 📍 Located Dar-Es-Salaam,Tanzania
+- ⏳ Long term passion has always been Computer Science & Software Engineering since 14yrs old
