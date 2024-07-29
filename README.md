@@ -1,3 +1,4 @@
+[![abzy-iscool's GitHub | Topics Over Time](https://stats.quira.sh/abzy-iscool/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=abzy-iscool)
 - 👋 Welcome to my github page 
 - 🌱 Currently learning Devops and Software Development 
 - 👀 Interested in Devops and Systems/Software Architecture 
@@ -9,4 +10,4 @@
 
 [![abzy-iscool's GitHub | Stats](https://stats.quira.sh/abzy-iscool/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=abzy-iscool)
 
-[![abzy-iscool's GitHub | Topics Over Time](https://stats.quira.sh/abzy-iscool/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=abzy-iscool)
+
